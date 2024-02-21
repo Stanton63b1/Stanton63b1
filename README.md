@@ -17,6 +17,8 @@ I started studying for the AWS CCP exam about 1 month before I took my exam. I u
 ### AWS Solutions Architect Associate Certification
 After passing my AWS CCP I took a few weeks to spend with the family during the holiday time. My wife also had a knee surgery that i took some time to help her recover from and get back on her feet. I started studying using Adrian Cantrill's SAA course in Feb 2024. 
 
+(Update 2/21/24) After diving into this course it has turned out to be more than i had anticipated, not in a bad way as i have been learning so many new and exciting ways to build using AWS.
+
 
 
 #### Study Materials
