@@ -61,8 +61,8 @@ After the exam, I found out that I passed as soon as I had submitted. This was a
 Going forward I plan to study for the SAA certification along with working on some projects to help build my knowledge and start building a portfolio. 
 
 ## Ongoing Project
-AWS PartyRock Hackathon- (Deadline March 11th 2024) Making Generative AI powered Applications using partyrock an Amazon Bedrock Playground. I Started this project when i found out about it from a freind at the begining of Febuary 2024. 
-- [https://partyrock.aws/u/Stanton/x-G-k-MNa/Tavern-Tales%3A-A-Text-Based-Storytelling-RPG] - A text based RPG game that uses D&D rules. (Progress as of Febuary 21st 2024.)
+AWS PartyRock Hackathon- (Deadline March 11th 2024) Making Generative AI powered Applications using partyrock an Amazon Bedrock Playground. I Started this project when i found out about it from a friend at the begining of Febuary 2024. 
+- [https://partyrock.aws/u/Stanton/x-G-k-MNa/Tavern-Tales%3A-A-Text-Based-Storytelling-RPG] -EverText a text based RPG game that uses D&D rules with AI Gen charecter and scene images. (Progress as of Febuary 21st 2024.)
 
 ## Conclusion
 
