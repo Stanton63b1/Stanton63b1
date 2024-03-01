@@ -66,6 +66,8 @@ Going forward I plan to study for the SAA certification along with working on so
 AWS PartyRock Hackathon- (Deadline March 11th 2024) Making Generative AI powered Applications using partyrock an Amazon Bedrock Playground. I Started this project when i found out about it from a friend at the begining of Febuary 2024. 
 - [https://partyrock.aws/u/Stanton/x-G-k-MNa/Tavern-Tales%3A-A-Text-Based-Storytelling-RPG] -EverText a text based RPG game that uses D&D rules with AI Gen charecter and scene images. (Progress as of Febuary 21st 2024.)
 
+RetroPie- Repurposed an Old Dell Workstation: Installed Ubuntu on an unused Dell workstation to leverage its capabilities for multiple purposes, including retro gaming, by running RetroPie. This initiative alowed me to improve on my ability to rejuvenate outdated technology for current applications, showcasing versatility and my passion for both software configuration and vintage gaming culture. Besides learning alot from this project i got to introduce my son and daughters to the video games of the past generations. 
+
 ## Conclusion
 
 So far, this journey has been fun, I have a lot of friends that work in the field and daily I’ve heard them talking about things that I just didn’t understand. Now that I’ve been learning about the cloud and AWS, I can finally grasp what these services that they are always talking about really are.
